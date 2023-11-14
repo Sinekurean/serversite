@@ -11,7 +11,7 @@ RewriteEngine On
 # SSL and www
 # RewriteCond %{HTTPS} !on [OR]
 # RewriteCond %{HTTP_HOST} !^www\.
-# RewriteRule (.*) https://www.REPLACEME.xyz%{REQUEST_URI} [L,R=301]
+# RewriteRule (.*) https://www.carudan.net%{REQUEST_URI} [L,R=301]
 
 # Create 404 error page in /layouts
 ErrorDocument 404 /404.html
