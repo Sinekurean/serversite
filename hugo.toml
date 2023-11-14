@@ -1,0 +1,4 @@
+baseURL = 'https://dashboard.carudan.net'
+languageCode = 'en-us'
+title = 'Carudan Gardens'
+theme = 'bootstrap-bp'
